@@ -53,4 +53,4 @@ python lc3asmc.py <asmc file> -o <output file>
 
 result is shown below:
 
-![result](./img/result.png)
+![result](./result.png)
