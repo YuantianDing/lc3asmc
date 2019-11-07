@@ -54,3 +54,5 @@ python lc3asmc.py <asmc file> -o <output file>
 result is shown below:
 
 ![result](./result.png)
+
+终于可以愉快地写LC-3了:smile:
