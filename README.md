@@ -4,7 +4,7 @@
 
 write lc3asmc file like this.
 
-``` C
+``` C++
 
 at x3000 
 
@@ -56,9 +56,9 @@ result is shown below:
 
 ![result](./result.png)
 
-Let's see an example: Lab1 written in lc3asmc
+Let's see an example: Lab1 written in `lc3asmc`
 
-```C
+```C++
 
 at x3000
 
