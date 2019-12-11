@@ -14,6 +14,7 @@ label:
 label2:
 this_address_will_never_be_used: { 
     // long label support
+        using R0 as temp
         R1 = R2 + R3
         R1 <- R2 & R3
         R1 += 1
@@ -23,6 +24,7 @@ this_address_will_never_be_used: {
         R1 = -R1
         R1 = 12
         return
+    }
     Mem[label] = R1
     Mem[Mem[label]] = R2
     Mem[R1] = R2
@@ -42,7 +44,7 @@ this_address_will_never_be_used: {
         R1 <- R1 + 1
         while (% > 0)
     while (% > 0)
-}
+
 
 ```
 
